@@ -10,7 +10,7 @@
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.6) ~  Much Love, Ferib 
 
 ]]--
--- Since mr smarty pants, lava_cast wants to be a hero, i do indeed log your guys info. THIS IS only ROBLOX USERNAME, and JOB ID an job id is basically an link so i can join your exakt server.
+-- Since mr smarty pants, lava_cast wants to be a hero, i do indeed log your guys info. THIS IS only ROBLOX USERNAME, and JOB ID an job id is basically an link so i can join your exact ROBLOX server.
 -- Nothing is harmful and dangerous about this, i use this log so i can see how many people use my script, so i know if i should continue making scripts like these.
 -- If this suprises you, a lot of script hubs you see on the internet does the exact same thing, they log your roblox username and jobid, and possibly ip adresses. So that YOU as consumer can't crack / decompile.
 -- Scripts, if they like to be meanie a wenie they will leak your ip adresses if you do something dumb.
